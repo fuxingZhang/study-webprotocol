@@ -1,10 +1,10 @@
 # study-webprotocol
-使用nodejs学习web协议
+study webprotocol
 
-## 1、图片上传
+### 1. nodejs parse image data
 
-使用form表单上传一个图片到后端，nodejs解析其中的图片数据，返回给前端下载
+Use form to upload an image to the backend, nodejs parses the image data in it, and returns it to the frontend for download
 
-## 2、使用tcp协议下载一张图片
+### 2. Download a picture using the TCP protocol
 
-## 3、to do
+### 3. to do
